@@ -1,3 +1,3 @@
 # Image-Deblurring-ML-Autoencoders
 
-##Image Deblurring Machine Learning Project
+Image Deblurring Machine Learning Project
